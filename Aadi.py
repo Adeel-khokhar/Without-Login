@@ -1,4 +1,4 @@
-# Ustad# SIDRA5# Thuglife# Asim ch# Gamz#!/usr/bin/python2
+# Ustad# AADI06# AloneBoy# Adeel-khokhar# Gamz#!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
@@ -91,34 +91,33 @@ print  """
 \033[1;95m░▐██████▌╬░▒▒▒▒▒▒▒▒
 
 
-\033[1;97m██████╗░██╗░░░██╗██╗░░░░░
-\033[1;97m██╔══██╗██║░░░██║██║░░░░░
-\033[1;97m██████╦╝██║░░░██║██║░░░░░
-\033[1;97m██╔══██╗██║░░░██║██║░░░░░
-\033[1;97m██████╦╝╚██████╔╝███████╗
-\033[1;97m╚═════╝░░╚═════╝░╚══════╝
-
-\033[1;92m██╗░░░░░███████╗████████╗
-\033[1;92m██║░░░░░██╔════╝╚══██╔══╝
-\033[1;92m██║░░░░░█████╗░░░░░██║░░░
-\033[1;92m██║░░░░░██╔══╝░░░░░██║░░░
-\033[1;92m███████╗███████╗░░░██║░░░
-\033[1;92╚══════╝╚══════╝░░░╚═╝░░░
+\033[1;97m     _         _      ____    ___ 
+\033[1;97m    / \       / \    |  _ \  |_ _|
+\033[1;97m   / _ \     / _ \   | | | |  | | 
+\033[1;97m  / ___ \   / ___ \  | |_| |  | | 
+\033[1;97m /_/   \_\ /_/   \_\ |____/  |___|
+                                  				  
+\033[1;92m _  __  _   _    ___    _  __  _   _      _      ____  
+\033[1;92m | |/ / | | | |  / _ \  | |/ / | | | |    / \    |  _ \ 
+\033[1;92m | ' /  | |_| | | | | | | ' /  | |_| |   / _ \   | |_) |
+\033[1;92m | . \  |  _  | | |_| | | . \  |  _  |  / ___ \  |  _ < 
+\033[1;92m |_|\_\ |_| |_|  \___/  |_|\_\ |_| |_| /_/   \_\ |_| \_\
+                                                        
 
 \033[1;92m---------------------BRAND---------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mThe Credit For This Code Goes To ASIM..
+\033[1;96mTHE ULTIMATE AADI KHOKHAR..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91mDEVOLPER
-                     M Asim_CH
+                     ADEEL-KHOKHAR
 \033[1;94mFACEBOOK
-                     M Asim
+                     ADEEL KHOKHAR
 \033[1;91mYOUTUBE
-                     Asim Pardasi
+                     AADI TECH
 \033[1;93mGITHUB
-                     asim102
+                     Adeel-khokhar
 \033[1;92mWHATAAPP
- https://chat.whatsapp.com/F1SAi3LpBJlDT8NR4rK7ln
+                     03024839919
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mCloning I,ds Open 1&2 week..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••                
@@ -130,9 +129,12 @@ print  """
 logo1 = """
 
 
-\033[1;91m░█▀▀▀█ ▀▀█▀▀ ─█▀▀█ ░█▀▀█ 　 
-\033[1;97m─▀▀▀▄▄ ─░█── ░█▄▄█ ░█▄▄▀ 　 
-\033[1;91m░█▄▄▄█ ─░█── ░█─░█ ░█─░█ 　 
+\033[1;91m          _                                      
+\033[1;91m   __ _  | | __     __ _    __ _   _ __     __ _ 
+\033[1;91m  / _` | | |/ /    / _` |  / _` | | '_ \   / _` |
+\033[1;91m | (_| | |   <    | (_| | | (_| | | | | | | (_| |
+\033[1;91m  \__,_| |_|\_\    \__, |  \__,_| |_| |_|  \__, |
+\033[1;91m                           |___/           |___/  
 
     \033[1;96m███████╗██████╗░
     \033[1;96m██╔════╝██╔══██╗
@@ -151,73 +153,67 @@ logo1 = """
 
 
 
-\033[1;91m------------------CH----------------------
+\033[1;91m------------------KHOKHAR----------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mThe Credit For This Code Goes To Asim..
+\033[1;96mTHE ULTIMATE AADI KHOKHAR..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91mDEVOLPER
-                     M Asim_CH
+                     Adeel-khokhar
 \033[1;94mFACEBOOK
-                     M Asim
+                     Adeel Khokhar
 \033[1;91mYOUTUBE
-                     Asim Pardasi
+                     Aadi Tech
 \033[1;93mGITHUB
-                     asim102
+                     Adeel-Khokhar
 \033[1;92mWHATAAPP
-https://chat.whatsapp.com/F1SAi3LpBJlDT8NR4rK7ln
+                     03024839919
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96m kaman Copy Karke Kabhi Asim Nahin ban sakte..
+\033[1;96m PRAY PRAYER FIVE TIMES DAILY..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 
-\033[1;95m-----------------ASIM------------------------
+\033[1;95m-----------------ADEEL------------------------
 """
 logo2 = """
 
+\033[1;93m     ___       _______   _______  _______  __      
+\033[1;93m    /   \     |       \ |   ____||   ____||  |     
+\033[1;93m   /  ^  \    |  .--.  ||  |__   |  |__   |  |     
+\033[1;93m  /  /_\  \   |  |  |  ||   __|  |   __|  |  |     
+\033[1;93m /  _____  \  |  '--'  ||  |____ |  |____ |  `----.
+\033[1;93m/__/     \__\ |_______/ |_______||_______||_______|
+                                                   
 
-\033[1;93m░█████╗░░██████╗██╗███╗░░░███╗
-\033[1;93m██╔══██╗██╔════╝██║████╗░████║
-\033[1;93m███████║╚█████╗░██║██╔████╔██║
-\033[1;93m██╔══██║░╚═══██╗██║██║╚██╔╝██║
-\033[1;93m██║░░██║██████╔╝██║██║░╚═╝░██║
-\033[1;93m╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░░░░╚═╝ 
+\033[1;94m _   _   _       _____   ___   __  __      _      _____   _____ 
+\033[1;94m | | | | | |     |_   _| |_ _| |  \/  |    / \    |_   _| | ____|
+\033[1;94m | | | | | |       | |    | |  | |\/| |   / _ \     | |   |  _|  
+\033[1;94m | |_| | | |___    | |    | |  | |  | |  / ___ \    | |   | |___ 
+\033[1;94m  \___/  |_____|   |_|   |___| |_|  |_| /_/   \_\   |_|   |_____|
+                                                                 
 
-\033[1;94m██████╗░░█████╗░██████╗░██████╗░
-\033[1;94m██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-\033[1;94m██████╔╝███████║██████╔╝██║░░██║
-\033[1;94m██╔═══╝░██╔══██║██╔══██╗██║░░██║
-\033[1;94m██║░░░░░██║░░██║██║░░██║██████╔╝
-\033[1;94m╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░
 
-      \033[1;96m░█████╗░░██████╗██╗
-      \033[1;96m██╔══██╗██╔════╝██║
-      \033[1;96m███████║╚█████╗░██║
-      \033[1;96m██╔══██║░╚═══██╗██║
-      \033[1;96m██║░░██║██████╔╝██║
-      \033[1;96m╚═╝░░╚═╝╚═════╝░╚═╝
-      \033[1;97m
-
-\033[1;91m---------------------ASIM-------------------
+     
+\033[1;91m---------------------ADEEL-------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mThe Credit For This Code Goes To ASIM..
+\033[1;96mTHE ULTIMATE ADEEL KHOKHAR..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91mDEVOLPER
-                     CH_ASIM
+                     Adeel-khokhar
 \033[1;94mFACEBOOK
-                     M Asim
+                     Adeel Khokhar
 \033[1;91mYOUTUBE
-                     Asim Pardasi
+                     Aadi Tech
 \033[1;93mGITHUB
-                     asim102
+                     Adeel-khokhar
 \033[1;92mWHATAAPP
-https://chat.whatsapp.com/F1SAi3LpBJlDT8NR4rK7ln
+                     03024839919
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mCloning I,D Open 1&2 Week..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
                                                 
-\033[1;97m---------------------Asim--------------------
+\033[1;97m---------------------adeel--------------------
 """
-CorrectUsername = "CH"
-CorrectPassword = "ch"
+CorrectUsername = "AADI"
+CorrectPassword = "KHOKHAR"
 
 loop = 'true'
 while (loop == 'true'):
@@ -225,15 +221,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m \x1b[1;91mTool Password  \x1b[1;97m» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:CH_Asim
+            print "Logged in successfully as " + username #Dev:AADI-KHOKHAR
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCs3FOuvp53p1VJ9If-fo5Ww')
+            os.system('xdg-open https://www.facebook.com/Akyoutuber06')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCs3FOuvp53p1VJ9If-fo5Ww')
+        os.system('xdg-open https://www.facebook.com/Akyoutuber06')
 
 
 
@@ -263,9 +259,9 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;91m[1]  START CLONING With CH'
+    print '\x1b[1;91m[1]  START CLONING With AADI'
     time.sleep(0.10)
-    print '\x1b[1;92m[2] Asim FB ACCOUNT'
+    print '\x1b[1;92m[2] ADEEL FB ACCOUNT'
     time.sleep(0.10)
     print '\x1b[1;95m[3] MORE INFO'
     time.sleep(0.10)
@@ -273,7 +269,7 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;97m[5] CLONING ERROR'
     time.sleep(0.10)
-    print '\x1b[1;91m[6] M Asim FACEBOOK'
+    print '\x1b[1;91m[6] ADEEL KHOKHAR FACEBOOK'
     time.sleep(0.10)
     print '\x1b[1;94m[0] back'
    
@@ -492,8 +488,8 @@ def action():
 
 
 \033[1;96mThanks me later
-\033[1;95mFb\033[1;97mSOmi
-\033[1;95myoutube\033[1;97mhttps://www.youtube.com/channel/UCs3FOuvp53p1VJ9If-fo5Ww"""
+\033[1;95mFb\033[1;97mAADI
+\033[1;95myoutube\033[1;97mhttps://www.facebook.com/Akyoutuber06"""
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
