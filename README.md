@@ -15,7 +15,7 @@ pip2 install request mechanize
 git clone https://github.com/Adeel-khokhar/Without-Login
 
 
-ls Without-Login
+cd Without-Login
 
 python2 Aadi.py
 
